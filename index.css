@@ -1,0 +1,48 @@
+
+/* This is the main header */
+#header {
+    font-size:60px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    background-image: url("/Users/trentonnelms/Documents/Dasmotos Arts and crafts/resources/images/pattern.jpeg");
+}
+h1 {
+    color: khaki;
+}
+body {
+    background-color: powderblue;
+}
+
+.brushes {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    background-color: mediumspringgreen;
+    font-weight: bold;
+}
+h2 {
+    color: white;
+}
+
+h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    font-size: 15px;
+}
+
+.frames {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    background-color: lightcoral;
+}
+
+.paints {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    background-color: skyblue;
+}
